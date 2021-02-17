@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex_radio_button</string>
+    <string name="tv_name">"Name: "</string>
+    <string name="tv_sex">"Sex: "</string>
+    <string name="bt_confirm">Confirm</string>
+    <string name="tvHelloUser">Hello!</string>
+    <string name="tv_logSucTitle">Successfully login. Welcome!</string>
+    <string name="bt_login">Login</string>
+    <string name="tv_education">"Education: "</string>
+    <string name="bt_personalInfo">Personal Info</string>
+</resources>
