@@ -1,6 +1,6 @@
 package com.example.ex_firebaserecycleradapter;
 
-// https://medium.com/android-grid/how-to-use-firebaserecycleradpater-with-latest-firebase-dependencies-in-android-aff7a33adb8b
+// Ref: https://medium.com/android-grid/how-to-use-firebaserecycleradpater-with-latest-firebase-dependencies-in-android-aff7a33adb8b
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -149,7 +149,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void testFirebaseConnection() {
 
-        // check if connecting to firebase
+        // Check if connecting to firebase
         // by writing a message to the database.
         String url = "https://ex-firebaserecycleradapter-default-rtdb.firebaseio.com/";
         FirebaseDatabase database = FirebaseDatabase.getInstance(url);
