@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ex_basic_startActivity</string>
+    <string name="tv_logSucTitle">Successfully login.Welcome!</string>
+    <string name="tv_name">"Name: "</string>
+    <string name="etHintName">Input your name</string>
+    <string name="tv_sex">"Sex: "</string>
+    <string name="etHintSex">Input your sex</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tv_name">"Name: "</string>
+    <string name="etHintName">Input your name</string>
+    <string name="tv_sex">"Sex: "</string>
+</resources>

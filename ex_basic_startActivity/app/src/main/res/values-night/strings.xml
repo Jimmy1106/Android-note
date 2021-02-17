@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tv_logSucTitle">Successfully login.Welcom!</string>
+    <string name="tv_name">"Name: "</string>
+    <string name="etHintName">Input your name</string>
+    <string name="tv_sex">"Sex: "</string>
+    <string name="etHintSex">Input your sex</string>
+</resources>

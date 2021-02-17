@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex_listView</string>
+    <string name="tv_education">"Education: "</string>
+    <string name="tv_edu">Education item</string>
+    <string name="iv_edu_contentDescription" />
+    <string name="iv_contentDescript_edu">Img</string>
+</resources>
