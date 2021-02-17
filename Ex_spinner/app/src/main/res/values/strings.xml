@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Ex_radio_button</string>
+    <string name="app_name">Ex_spinner</string>
     <string name="tv_name">"Name: "</string>
     <string name="tv_sex">"Sex: "</string>
     <string name="bt_confirm">Confirm</string>
