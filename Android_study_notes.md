@@ -4,18 +4,44 @@ title: 'Android study notes'
 
 
 
-
 **Table of Contents**
 ===
 
 
-[TOC]
+<!-- [TOC] -->
+
+
+<!-- vim-markdown-toc GFM -->
+
+* [Basic Concept](#Basic-Concept)
+    * [AndroidManifest.xml](#AndroidManifest.xml)
+    * [Build.gradle](#Build.gradle)
+    * [Activity lifecycle managing](#Activity-lifecycle-managing)
+* [First app building](#First-app-building)
+    * [Building Steps](#Building-Steps)
+    * [Intent-filter](#Intent-filter)
+
+
+
+* [User Interface](#User-Interface)
+    * [LinearLayout](#LinearLayout)
+    * [Button](#Button)
+    * [Intent](#Intent)
+    * [Adapter](#Adapter)
+    * [ListView](#ListView)
+    * [RecyclerView](#RecyclerView)
+* [Exercises](#Exercises)
+* [Useful links for Development](#Useful-links-for-Development)
+
+<!-- vim-markdown-toc -->
+
 
 
 
 **Basic Concept**
 ===
-<span class="red">Description</span>
+
+
 
 **AndroidManifest.xml**
 ---
