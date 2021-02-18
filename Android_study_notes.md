@@ -56,9 +56,9 @@ Note: Store data to database when onPause() method called.
 
 **Building Steps**
 ---
-1.Prepare all the resources you need. (e.g.strings, icons...)
-2.Set up view file (main.xml)
-3.Set up Activity file (MainActivity.java)
+1. Prepare all the resources you need. (e.g.strings, icons...)
+2. Set up view file (main.xml)
+3. Set up Activity file (MainActivity.java)
 
 Note: These steps can be thought as **MVC**. (Model, View, and Controller.)
 
