@@ -6,22 +6,13 @@ Collecting exercsies and [study notes](/Android_study_notes.md) that I made in o
 Demo looks
 -
 
-An exercise to build FirebaseRecyclerView.
+Exercises to build FirebaseRecyclerView, Radio Button, and custom ListView.
 <br>
-<br>
-<img src="./Views/Ex_FirebaseRecycleradapter/02_add_recyclerView_item.png" width="200">
 <br>
 
-An exercise to build radio button.
-<br>
-<br>
-<img src="./Views/Ex_radio_button/02_select_and_click.png" width="200">
-<br>
+<img src="./Views/Ex_FirebaseRecycleradapter/02_add_recyclerView_item.png" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="./Views/Ex_radio_button/02_select_and_click.png" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./Views/Ex_listView/01_click_listView_item.png" width="200">
 
-An exercise to build custom ListView.
 <br>
-<br>
-<img src="./Views/Ex_listView/01_click_listView_item.png" width="200">
 <br>
 
 **Contents of study notes**
