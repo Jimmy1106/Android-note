@@ -15,8 +15,8 @@ Exercises to build FirebaseRecyclerView, Radio Button, and custom ListView.
 <br>
 <br>
 
-**Contents of study notes**
-===
+Contents of study notes
+-
 
 <!-- vim-markdown-toc GFM -->
 
