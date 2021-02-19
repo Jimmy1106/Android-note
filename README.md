@@ -9,19 +9,19 @@ Demo looks
 An exercise to build FirebaseRecyclerView.
 <br>
 <br>
-![FirebaseRecyclerView](./Views/Ex_FirebaseRecycleradapter/02_add_recyclerView_item.png)
+<img src="./Views/Ex_FirebaseRecycleradapter/02_add_recyclerView_item.png" width="200">
 <br>
 
 An exercise to build radio button.
 <br>
 <br>
-![Radio button](./Views/Ex_radio_button/02_select_and_click.png)
+<img src="./Views/Ex_radio_button/02_select_and_click.png" width="200">
 <br>
 
 An exercise to build custom ListView.
 <br>
 <br>
-![Custom ListView](./Views/Ex_listView/01_click_listView_item.png)
+<img src="./Views/Ex_listView/01_click_listView_item.png" width="200">
 <br>
 
 **Contents of study notes**
